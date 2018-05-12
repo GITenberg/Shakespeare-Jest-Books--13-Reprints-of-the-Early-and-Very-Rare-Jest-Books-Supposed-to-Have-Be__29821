@@ -1,0 +1,31 @@
+_repo: Shakespeare-Jest-Books--13-Reprints-of-the-Early-and-Very-Rare-Jest-Books-Supposed-to-Have-Be__29821
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Hazlitt, William Carew
+    alias: Hazlitt, W. Carew (William Carew)
+    birthdate: 1834
+    deathdate: 1913
+    gutenberg_agent_id: '4300'
+    url: http://www.gutenberg.org/2009/agents/4300
+    wikipedia: http://en.wikipedia.org/wiki/William_Carew_Hazlitt
+description: ''
+gutenberg_issued: '2009-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29821'
+  lccn: '17024759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Sources'
+- !lcc 'PR'
+- !lcsh 'Jestbooks, English'
+title: "Shakespeare Jest-Books\r\nReprints of the Early and Very Rare Jest-Books Supposed\
+  \ to Have Been Used by Shakespeare"
+url: http://www.gutenberg.org/ebooks/29821
